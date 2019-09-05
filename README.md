@@ -31,14 +31,14 @@ Downloading
 # BetProjectCS
 BetProjectCS can be seen in the main site page way.  
 
-http://mastere.pythonanywhere.com
+http://filpon.pythonanywhere.com
 
 Another URL links of project:
 
-http://mastere.pythonanywhere.com/pastmatchsget/
-http://mastere.pythonanywhere.com/tablepastmatchs/
-http://mastere.pythonanywhere.com/currentmatchsget/
-http://mastere.pythonanywhere.com/currentmatchstable/
+http://filpon.pythonanywhere.com/pastmatchsget/
+http://filpon.pythonanywhere.com/tablepastmatchs/
+http://filpon.pythonanywhere.com/currentmatchsget/
+http://filpon.pythonanywhere.com/currentmatchstable/
 
 
 Documentation
@@ -63,8 +63,5 @@ Pythonanywhere is here:
 
   https://www.pythonanywhere.com/
 
-And the BetProjectCS development page is here:
-
-  http://mastere.pythonanywhere.com
 
 You can ask most information concerning the development of BetProjectCS if you mail authors a letter by e-mail: filpon@mail.ru and thmaster@me.com.
