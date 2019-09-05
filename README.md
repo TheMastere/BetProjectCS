@@ -67,4 +67,4 @@ And the BetProjectCS development page is here:
 
   http://mastere.pythonanywhere.com
 
-You can ask most information concerning the development of BetProjectCS if you mail authors a letter by e-mail: filpon@mail.ru thmaster@me.com.
+You can ask most information concerning the development of BetProjectCS if you mail authors a letter by e-mail: filpon@mail.ru and thmaster@me.com.
